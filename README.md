@@ -37,8 +37,6 @@ Nous tenons à remercier tous les contributeurs qui ont participé à Projet Git
 
 Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter. Vous pouvez nous joindre par le biais des problèmes (issues) ou en utilisant les coordonnées suivantes :
 
-- Nom : Votre nom
-- Email : votre@email.com
 
 Nous sommes impatients de collaborer avec vous !
 
