@@ -1,6 +1,6 @@
-# Contribuer à GitHubDemo
+# Contribuer à Projet Git
 
-Merci de votre intérêt pour contribuer à GitHubDemo ! Nous accueillons favorablement les contributions de la communauté et nous sommes ravis de collaborer avec vous.
+Merci de votre intérêt pour contribuer à Projet Git ! Nous accueillons favorablement les contributions de la communauté et nous sommes ravis de collaborer avec vous.
 
 ## Comment contribuer
 
@@ -38,4 +38,4 @@ Voici quelques étapes simples pour contribuer au projet :
 
 - Amusez-vous et profitez de l'expérience de contribution !
 
-Merci encore pour votre intérêt et vos contributions à GitHubDemo. Nous apprécions grandement votre aide pour faire avancer ce projet.
+Merci encore pour votre intérêt et vos contributions à Projet Git. Nous apprécions grandement votre aide pour faire avancer ce projet.
